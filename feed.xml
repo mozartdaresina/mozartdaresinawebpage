@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>MozartDaResina</title>
+    <link href="https://mozartdaresina.github.io/mozartdaresinawebpage/feed.xml" rel="self" />
+    <link href="https://mozartdaresina.github.io/mozartdaresinawebpage" />
+    <updated>2026-05-17T00:39:40+01:00</updated>
+    <author>
+        <name>admin</name>
+    </author>
+    <id>https://mozartdaresina.github.io/mozartdaresinawebpage</id>
+
+    <entry>
+        <title>Velas Perfumadas</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://mozartdaresina.github.io/mozartdaresinawebpage/velas-perfumadas.html"/>
+        <id>https://mozartdaresina.github.io/mozartdaresinawebpage/velas-perfumadas.html</id>
+        <media:content url="https://mozartdaresina.github.io/mozartdaresinawebpage/media/posts/17/velas.png" medium="image" />
+            <category term="Produtos"/>
+
+        <updated>2026-05-17T00:39:40+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Canecas Personalizadas </title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://mozartdaresina.github.io/mozartdaresinawebpage/canecas-personalizadoa.html"/>
+        <id>https://mozartdaresina.github.io/mozartdaresinawebpage/canecas-personalizadoa.html</id>
+        <media:content url="https://mozartdaresina.github.io/mozartdaresinawebpage/media/posts/16/canecas.png" medium="image" />
+            <category term="Produtos"/>
+
+        <updated>2026-05-17T00:29:06+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Pulseiras</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://mozartdaresina.github.io/mozartdaresinawebpage/pulseiras.html"/>
+        <id>https://mozartdaresina.github.io/mozartdaresinawebpage/pulseiras.html</id>
+        <media:content url="https://mozartdaresina.github.io/mozartdaresinawebpage/media/posts/15/pulseiras.jpg" medium="image" />
+            <category term="Produtos"/>
+
+        <updated>2026-05-17T00:23:17+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

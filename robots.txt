@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mozartdaresina.github.io/mozartdaresinawebpage/sitemap.xml
