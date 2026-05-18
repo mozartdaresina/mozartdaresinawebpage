@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://mozartdaresina.github.io/mozartdaresinawebpage/porta-chaves-personalizado.html",
+            "url": "https://mozartdaresina.github.io/mozartdaresinawebpage/porta-chaves-personalizado.html",
+            "title": "Porta-Chaves Personalizados",
+            "summary": "Fazemos porta-chaves personalizados",
+            "content_html": "<p class=\"align-left\">Fazemos porta-chaves personalizados</p>",
+            "image": "https://mozartdaresina.github.io/mozartdaresinawebpage/media/posts/18/469814975_122192056688041634_2477965389288276808_n.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Produtos"
+            ],
+            "date_published": "2026-05-18T19:52:42+01:00",
+            "date_modified": "2026-05-18T19:53:49+01:00"
+        },
+        {
             "id": "https://mozartdaresina.github.io/mozartdaresinawebpage/velas-perfumadas.html",
             "url": "https://mozartdaresina.github.io/mozartdaresinawebpage/velas-perfumadas.html",
             "title": "Velas Perfumadas",

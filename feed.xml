@@ -3,12 +3,36 @@
     <title>MozartDaResina</title>
     <link href="https://mozartdaresina.github.io/mozartdaresinawebpage/feed.xml" rel="self" />
     <link href="https://mozartdaresina.github.io/mozartdaresinawebpage" />
-    <updated>2026-05-17T00:39:40+01:00</updated>
+    <updated>2026-05-18T19:53:49+01:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://mozartdaresina.github.io/mozartdaresinawebpage</id>
 
+    <entry>
+        <title>Porta-Chaves Personalizados</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://mozartdaresina.github.io/mozartdaresinawebpage/porta-chaves-personalizado.html"/>
+        <id>https://mozartdaresina.github.io/mozartdaresinawebpage/porta-chaves-personalizado.html</id>
+        <media:content url="https://mozartdaresina.github.io/mozartdaresinawebpage/media/posts/18/469814975_122192056688041634_2477965389288276808_n.jpg" medium="image" />
+            <category term="Produtos"/>
+
+        <updated>2026-05-18T19:52:42+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://mozartdaresina.github.io/mozartdaresinawebpage/media/posts/18/469814975_122192056688041634_2477965389288276808_n.jpg" alt="" />
+                    Fazemos porta-chaves personalizados
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://mozartdaresina.github.io/mozartdaresinawebpage/media/posts/18/469814975_122192056688041634_2477965389288276808_n.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="align-left">Fazemos porta-chaves personalizados</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Velas Perfumadas</title>
         <author>
